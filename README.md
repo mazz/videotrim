@@ -1,3 +1,6 @@
+# What is this?
+
+Split large videos into smaller, titled clips.
 # Usage
 
 `python3 videotrim.py splitvideo largevideo.mp4 --clip-list clip-list-example.json`
