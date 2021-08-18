@@ -1,1 +1,0 @@
-python3 videotrim.py splitvideo largevideo.mp4 --clip-list clip-list-example.json
